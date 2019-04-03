@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "name": "echo",
+    "public": true,
+    "regions": ["sfo1", "hnd1"],
+    "builds": [
+        { "src": "*.js", "use": "@now/node" }
+    ]
+}
