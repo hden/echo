@@ -4,6 +4,6 @@
     "public": true,
     "regions": ["sfo1", "hnd1"],
     "builds": [
-        { "src": "src/*.js", "use": "@now/node" }
+        { "src": "*.js", "use": "@now/node" }
     ]
 }
