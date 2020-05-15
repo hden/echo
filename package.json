@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/hden/echo#readme",
   "devDependencies": {
-    "standard": "14.3.1"
+    "standard": "14.3.4"
   },
   "dependencies": {
     "micro": "^9.3.3"
