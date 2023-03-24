@@ -23,6 +23,6 @@
     "standard": "14.3.1"
   },
   "dependencies": {
-    "micro": "^9.3.3"
+    "micro": "^10.0.0"
   }
 }
